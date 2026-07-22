@@ -102,6 +102,6 @@ After completing this project, students will be able to:
 
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** Rohan
 
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**GitHub:** (https://github.com/Rohanyadav2721)
